@@ -12,6 +12,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [ThinkPython2](https://github.com/AllenDowney/ThinkPython2)
   * [Learning Scientific Programming with Python](https://doi.org/10.1017/CBO9781139871754)
   * [Python for scientists](https://github.com/theJollySin/python_for_scientists)
+  * [Python courses for the scientific researcher](https://github.com/SciTools/courses)
 
 * __Python (Advanced)__
   * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
@@ -101,6 +102,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Atmospheric Model__
   * [Numerical Weather and Climate Prediction](https://doi.org/10.1017/CBO9780511763243)
   * [GEOSChem-python-tutorial](https://github.com/geoschem/GEOSChem-python-tutorial)
+  * [PyGEOMET](https://github.com/pygeomet/PyGEOMET)
   * [PyBox](https://github.com/loftytopping/PyBox)
   * [Parcel Trajectories for CM1 and WRF output](https://github.com/tomgowan/trajectories)
   * [InMAP](https://github.com/spatialmodel/inmap)
