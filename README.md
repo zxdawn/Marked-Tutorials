@@ -112,6 +112,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
   * [PythonFromSpace](https://github.com/kscottz/PythonFromSpace)
   * [satpy](https://github.com/pytroll/satpy)
+  * [ccplot](https://github.com/peterkuma/ccplot)
   * [pyModis](https://github.com/lucadelu/pyModis)
 
 * __Guitar__
