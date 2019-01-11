@@ -29,6 +29,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Useful Python library__
 
   * [xarray](https://github.com/pydata/xarray)
+  * [PyTables](https://github.com/PyTables/PyTables)
   * [xESMF](https://github.com/JiaweiZhuang/xESMF)
   * [cmaps](https://github.com/hhuangwx/cmaps)
   * [salem](https://github.com/fmaussion/salem)
@@ -38,6 +39,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [geopy](https://github.com/geopy/geopy)
   * [pyresample](https://github.com/pytroll/pyresample)
   * [pyecharts](https://github.com/pyecharts/pyecharts)
+  * [Plotly](https://github.com/plotly)
   * [geoviews](https://github.com/pyviz/geoviews)
   * [pysheds](https://github.com/mdbartos/pysheds)
   * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
