@@ -111,7 +111,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [InMAP](https://github.com/spatialmodel/inmap)
 
 * __Satellite__
-
+  * [Monitoring Atmospheric Composition (Online course)](https://www.futurelearn.com/courses/atmospheric-composition)
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
   * [PythonFromSpace](https://github.com/kscottz/PythonFromSpace)
   * [satpy](https://github.com/pytroll/satpy)
