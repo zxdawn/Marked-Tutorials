@@ -117,6 +117,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [satpy](https://github.com/pytroll/satpy)
   * [ccplot](https://github.com/peterkuma/ccplot)
   * [pyModis](https://github.com/lucadelu/pyModis)
+  * [VISIT](http://rammb.cira.colostate.edu/training/visit/)
 
 * __Guitar__
 
