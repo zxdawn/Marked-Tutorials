@@ -9,12 +9,14 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 ---
 
 * __Python (Basic)__
+
   * [ThinkPython2](https://github.com/AllenDowney/ThinkPython2)
   * [Learning Scientific Programming with Python](https://doi.org/10.1017/CBO9781139871754)
   * [Python for scientists](https://github.com/theJollySin/python_for_scientists)
   * [Python courses for the scientific researcher](https://github.com/SciTools/courses)
 
 * __Python (Advanced)__
+
   * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
   * [Practical Deep Learning For Coders](https://course.fast.ai/)
@@ -45,6 +47,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
 
 * __Fortran__
+
   * [Introduction to Modern Fortran for the Earth System Sciences](https://www.springer.com/la/book/9783642370083)
   * [Fortran for Scientists & Engineers](https://www.goodreads.com/book/show/36319697-fortran-for-scientists-engineers?ac=1&from_search=true) 
 
@@ -76,8 +79,10 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [git tips](https://github.com/git-tips/tips)
 
 * __Coding/Learning Group__
+
   * [studyGroup](https://github.com/UofTCoders/studyGroup)
   * [Coding Club](https://github.com/ourcodingclub/ourcodingclub.github.io)
+  * [datacarpentry](https://datacarpentry.org/lessons/)
 
 
 * __LaTeX__
@@ -90,6 +95,10 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 
 * __Atmosphere__
+
+  * [Sever Weather](http://learnweather.com/)
+  * [AMS_2019 (recorded)](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/ModuleProgramBook/0)
+
   * [Atmospheric Science (2nd Edition)](https://www.elsevier.com/books/atmospheric-science/wallace/978-0-12-732951-2)
   * [An Introduction to Dynamic Meteorology (5th Edition)](https://www.elsevier.com/books/an-introduction-to-dynamic-meteorology/holton/978-0-12-384866-6)
   * [A First Course in Atmospheric Thermodynamics](https://www.goodreads.com/book/show/5296780-a-first-course-in-atmospheric-thermodynamics)
@@ -103,6 +112,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Inverse Methods for Atmospheric Sounding](https://doi.org/10.1142/3171)
 
 * __Atmospheric Model__
+
   * [Numerical Weather and Climate Prediction](https://doi.org/10.1017/CBO9780511763243)
   * [GEOSChem-python-tutorial](https://github.com/geoschem/GEOSChem-python-tutorial)
   * [PyGEOMET](https://github.com/pygeomet/PyGEOMET)
@@ -111,6 +121,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [InMAP](https://github.com/spatialmodel/inmap)
 
 * __Satellite__
+
   * [Monitoring Atmospheric Composition (Online course)](https://www.futurelearn.com/courses/atmospheric-composition)
   * [VISIT](http://rammb.cira.colostate.edu/training/visit/)
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
