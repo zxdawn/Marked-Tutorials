@@ -70,6 +70,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Docker Cheat Sheet](https://github.com/wsargent/docker-cheat-sheet)
   * [Numerical weather prediction (NWP) containers](https://dtcenter.org/community-code/numerical-weather-prediction-nwp-containers)
   * [glmtools-docker](https://github.com/deeplycloudy/glmtools-docker)
+  * [ecmwf/jupyter-notebook](https://hub.docker.com/r/ecmwf/jupyter-notebook/)
 
 * __Git__
 
