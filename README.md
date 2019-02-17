@@ -125,6 +125,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [Monitoring Atmospheric Composition (Online course)](https://www.futurelearn.com/courses/atmospheric-composition)
   * [VISIT](http://rammb.cira.colostate.edu/training/visit/)
+  * [Remote-Sensing-Earth-Observation-directory](https://github.com/joaofgoncalves/Remote-Sensing-Earth-Observation-directory)
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
   * [PythonFromSpace](https://github.com/kscottz/PythonFromSpace)
   * [satpy](https://github.com/pytroll/satpy)
