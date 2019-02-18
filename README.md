@@ -127,6 +127,8 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [VISIT](http://rammb.cira.colostate.edu/training/visit/)
   * [Fundamentals of Remote Sensing](https://www.nrcan.gc.ca/node/9309)
   * [Satellite Meteorology For Grade 7-12](http://cimss.ssec.wisc.edu/satmet/)
+  * [EUMeTrain Satellite Courses](http://eumetrain.org/courses.html)
+  * [GEOS-R Training](https://www.goes-r.gov/users/training/gsm.html)
   * [Remote-Sensing-Earth-Observation-directory](https://github.com/joaofgoncalves/Remote-Sensing-Earth-Observation-directory)
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
   * [PythonFromSpace](https://github.com/kscottz/PythonFromSpace)
