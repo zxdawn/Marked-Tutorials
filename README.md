@@ -44,6 +44,9 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Plotly](https://github.com/plotly)
   * [geoviews](https://github.com/pyviz/geoviews)
   * [pysheds](https://github.com/mdbartos/pysheds)
+  * [satpy](https://github.com/pytroll/satpy)
+  * [ccplot](https://github.com/peterkuma/ccplot)
+  * [pyModis](https://github.com/lucadelu/pyModis)
   * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
 
 * __Fortran__
@@ -99,7 +102,6 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [Sever Weather](http://learnweather.com/)
   * [AMS_2019 (recorded)](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/ModuleProgramBook/0)
-
   * [Atmospheric Science (2nd Edition)](https://www.elsevier.com/books/atmospheric-science/wallace/978-0-12-732951-2)
   * [An Introduction to Dynamic Meteorology (5th Edition)](https://www.elsevier.com/books/an-introduction-to-dynamic-meteorology/holton/978-0-12-384866-6)
   * [A First Course in Atmospheric Thermodynamics](https://www.goodreads.com/book/show/5296780-a-first-course-in-atmospheric-thermodynamics)
@@ -132,9 +134,6 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Remote-Sensing-Earth-Observation-directory](https://github.com/joaofgoncalves/Remote-Sensing-Earth-Observation-directory)
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
   * [PythonFromSpace](https://github.com/kscottz/PythonFromSpace)
-  * [satpy](https://github.com/pytroll/satpy)
-  * [ccplot](https://github.com/peterkuma/ccplot)
-  * [pyModis](https://github.com/lucadelu/pyModis)
 
 * __Guitar__
 
