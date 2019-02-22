@@ -19,6 +19,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
+  * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Practical Deep Learning For Coders](https://course.fast.ai/)
   * [Python Machine Learning (2nd edition)](https://github.com/rasbt/python-machine-learning-book-2nd-edition)
   * [Neural Networks and Deep Learning](https://github.com/mnielsen/neural-networks-and-deep-learning)
