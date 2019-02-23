@@ -96,6 +96,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [Beginner's Tutorial](https://www.sharelatex.com/blog/latex-guides/beginners-tutorial.html)
   * [A simple guide to LaTeX](https://www.latex-tutorial.com/tutorials/)
+  * [The Not So Short Introduction to LATEX](https://tobi.oetiker.ch/lshort/lshort.pdf)
 
 * __Math__
 
