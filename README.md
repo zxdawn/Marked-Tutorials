@@ -20,6 +20,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [ams-ml-python-course](https://github.com/djgagne/ams-ml-python-course)
   * [fastai](https://github.com/fastai/fastai)
+  * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
   * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
