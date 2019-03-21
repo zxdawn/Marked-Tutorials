@@ -102,6 +102,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Math__
 
+  * [Stat Terk](https://stattrek.com/)
   * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 
 * __Atmosphere__
