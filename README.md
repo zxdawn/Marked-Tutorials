@@ -86,6 +86,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [learnGitBranching](https://github.com/pcottle/learnGitBranching)
   * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
   * [git tips](https://github.com/git-tips/tips)
+  * [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
 
 * __Coding/Learning Group__
 
