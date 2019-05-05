@@ -87,6 +87,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Git Cheat Sheet](https://github.com/arslanbilal/git-cheat-sheet)
   * [git tips](https://github.com/git-tips/tips)
   * [Git Submodules](https://chrisjean.com/git-submodules-adding-using-removing-and-updating/)
+  * [Git Workflow](https://www.asmeurer.com/git-workflow/)
 
 * __Coding/Learning Group__
 
