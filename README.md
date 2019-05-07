@@ -18,6 +18,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Python (Advanced)__
 
+  * [dask-tutorial](https://github.com/dask/dask-tutorial)
   * [ams-ml-python-course](https://github.com/djgagne/ams-ml-python-course)
   * [fastai](https://github.com/fastai/fastai)
   * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
