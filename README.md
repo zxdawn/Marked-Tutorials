@@ -146,6 +146,9 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Awesome Satellite Imagery Datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
   * [PythonFromSpace](https://github.com/kscottz/PythonFromSpace)
 
+* __Radar__
+  * [Radar Meteorology: A First Course](https://doi.org/10.1002/9781118432662)
+
 * __Guitar__
 
   * [justinguitar](https://www.justinguitar.com/)
