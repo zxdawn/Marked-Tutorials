@@ -14,7 +14,6 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Learning Scientific Programming with Python](https://doi.org/10.1017/CBO9781139871754)
   * [Python for scientists](https://github.com/theJollySin/python_for_scientists)
   * [Python courses for the scientific researcher](https://github.com/SciTools/courses)
-  * [Python Video Courses](https://realpython.com/courses/)
 
 * __Python (Advanced)__
 
