@@ -148,6 +148,11 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Radar__
   * [Radar Meteorology: A First Course](https://doi.org/10.1002/9781118432662)
 
+* __Website__
+
+  * [Hugo - Static Site Generator | Tutorial](https://youtu.be/qtIqKaDlqXo)
+  * [Hexo - Static Site Generator | Tutorial](https://youtu.be/Kt7u5kr_P5o)
+
 * __Guitar__
 
   * [justinguitar](https://www.justinguitar.com/)
