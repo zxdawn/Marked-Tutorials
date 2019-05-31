@@ -138,6 +138,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Monitoring Atmospheric Composition (Online course)](https://www.futurelearn.com/courses/atmospheric-composition)
   * [VISIT](http://rammb.cira.colostate.edu/training/visit/)
   * [Fundamentals of Remote Sensing](https://www.nrcan.gc.ca/node/9309)
+  * [CIMSS](http://cimss.ssec.wisc.edu/)
   * [Satellite Meteorology For Grade 7-12](http://cimss.ssec.wisc.edu/satmet/)
   * [EUMeTrain Satellite Courses](http://eumetrain.org/courses.html)
   * [GEOS-R Training](https://www.goes-r.gov/users/training/gsm.html)
