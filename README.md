@@ -108,6 +108,10 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [STAT 501](https://newonlinecourses.science.psu.edu/stat501/)
   * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
 
+* __Weather__
+
+  * [THE ULTIMATE WEATHER EDUCATION WEBSITE](http://www.theweatherprediction.com/)
+
 * __Atmosphere__
 
   * [Sever Weather](http://learnweather.com/)
