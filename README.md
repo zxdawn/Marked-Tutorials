@@ -32,6 +32,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [STAT 479: Machine Learning (FS 2018)](https://github.com/rasbt/stat479-machine-learning-fs18)
   * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   * [practicalAI](https://github.com/GokuMohandas/practicalAI)
+  * [fast.ai course v3](https://github.com/hiromis/notes)
 
 * __Useful Python library__
 
