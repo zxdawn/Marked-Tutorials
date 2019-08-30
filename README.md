@@ -143,6 +143,12 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Stat Terk](https://stattrek.com/)
   * [STAT 501](https://newonlinecourses.science.psu.edu/stat501/)
   * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
+  
+* __Research__
+  * [Sci-Hub](http://sci-hub.tw/) : 英文论文下载神器
+  * [libgen](https://libgen.is/) : 外文书籍下载神器
+  * [通天塔](http://tongtianta.site/) : 论文翻译神器
+  * [双系统安装](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/): ubuntu和win10双系统安装
 
 * __Weather__
 
@@ -199,12 +205,6 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [Hugo - Static Site Generator | Tutorial](https://youtu.be/qtIqKaDlqXo)
   * [Hexo - Static Site Generator | Tutorial](https://youtu.be/Kt7u5kr_P5o)
-  
-* __Research__
-  * [Sci-Hub](http://sci-hub.tw/) : 英文论文下载神器
-  * [libgen](https://libgen.is/) : 外文书籍下载神器
-  * [通天塔](http://tongtianta.site/) : 论文翻译神器
-  * [双系统安装](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/): ubuntu和win10双系统安装
 
 * __Guitar__
 
