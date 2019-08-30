@@ -48,10 +48,14 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Useful Python library__
   * _Meteorological data IO_
     * [xarray](https://github.com/pydata/xarray)
+    * [cfgrib](https://github.com/ecmwf/cfgrib)
     * [netcdf4](https://github.com/Unidata/netcdf4-python)
-  * [metpy](https://github.com/Unidata/MetPy)
+    * [pynio](https://github.com/NCAR/pynio)
+    * [xESMF](https://github.com/JiaweiZhuang/xESMF)
+  * _Atomspheric Physic_
+    * [metpy](https://github.com/Unidata/MetPy)
+    * [PyDSD](https://github.com/josephhardinee/PyDSD):Python Library for working with disdrometer data.
   * [PyTables](https://github.com/PyTables/PyTables)
-  * [xESMF](https://github.com/JiaweiZhuang/xESMF)
   * [cmaps](https://github.com/hhuangwx/cmaps)
   * [salem](https://github.com/fmaussion/salem)
   * [iris](https://github.com/SciTools/iris)
