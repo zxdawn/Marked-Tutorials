@@ -17,9 +17,9 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Python Scientific Computing__
   
-  * [JupyterLab-Docs (highly recommended!)](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html)
+  * [JupyterLab-Docs (highly recommended!)](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html) : 科学计算必备
   * [dask-tutorial](https://github.com/dask/dask-tutorial)
-  * [numpy-Docs](https://numpy.org/devdocs/user/quickstart.html)
+  * [numpy-Docs](https://numpy.org/devdocs/user/quickstart.html) 
   * [pandas-Docs](https://pandas.pydata.org/pandas-docs/stable/)
   * [xarray-Docs (highly recommended!)](https://www.youtube.com/watch?v=X0pAhJgySxk)
   * [matplotlib-Docs](https://matplotlib.org/tutorials/index.html)
@@ -27,7 +27,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   
 * __Python Machine Learning & Deep Learning__
 
-  * [pytorch (highly recommended!)](https://github.com/yunjey/pytorch-tutorial)
+  * [pytorch (highly recommended!)](https://github.com/yunjey/pytorch-tutorial) : facebook开源的动态深度学习框架，易用性优于tensorflow
   * [tensorflow](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -48,29 +48,46 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Useful Python library__
   * _Meteorological data IO_
     * [xarray](https://github.com/pydata/xarray) : 功能强大的多维气象数据处理库
-    * [cfgrib](https://github.com/ecmwf/cfgrib)
-    * [netcdf4](https://github.com/Unidata/netcdf4-python)
-    * [pynio](https://github.com/NCAR/pynio)
+    * [cfgrib](https://github.com/ecmwf/cfgrib) : ECMWF开发的grib数据处理工具，可作为xarry底层库
+    * [netcdf4](https://github.com/Unidata/netcdf4-python) 
+    * [pynio](https://github.com/NCAR/pynio) : NCL为底层的数据读取Python接口
     * [xESMF](https://github.com/JiaweiZhuang/xESMF)
   * _Atomspheric Physics_
-    * [metpy](https://github.com/Unidata/MetPy)
-    * [PyDSD](https://github.com/josephhardinee/PyDSD) : Python Library for working with disdrometer data.
-  * [PyTables](https://github.com/PyTables/PyTables)
-  * [cmaps](https://github.com/hhuangwx/cmaps)
-  * [salem](https://github.com/fmaussion/salem)
-  * [iris](https://github.com/SciTools/iris)
-  * [geopandas](https://github.com/geopandas/geopandas)
-  * [geoplot](https://github.com/ResidentMario/geoplot)
-  * [geopy](https://github.com/geopy/geopy)
-  * [pyresample](https://github.com/pytroll/pyresample)
-  * [pyecharts](https://github.com/pyecharts/pyecharts)
-  * [Plotly](https://github.com/plotly)
-  * [geoviews](https://github.com/pyviz/geoviews)
-  * [pysheds](https://github.com/mdbartos/pysheds)
-  * [satpy](https://github.com/pytroll/satpy)
-  * [ccplot](https://github.com/peterkuma/ccplot)
-  * [pyModis](https://github.com/lucadelu/pyModis)
-  * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
+    * [metpy](https://github.com/Unidata/MetPy) ：常见的大气物理过程函数库
+    * [PyDSD](https://github.com/josephhardinee/PyDSD) : 雨滴谱数据处理库
+    * [pyrcel](https://github.com/darothen/pyrcel) : cloud parcel model
+    * [libcloudphysics++](https://github.com/igfuw/libcloudphxx) : a library of algorithms for representing cloud microphysics in numerical models
+  * _Meteorological data visualization_
+    * [PyNGL](https://github.com/NCAR/pyngl) : NCL的Python绘图接口
+    * [CDAT](https://github.com/CDAT/cdat) : 气象数据分析与绘图，并支持3D绘图
+    * [cmocean](https://github.com/matplotlib/cmocean) : 通用的海洋色彩图设置
+    * [cmaps](https://github.com/hhuangwx/cmaps) : 移植NCL的cmaps用于Python
+    * [iris](https://github.com/SciTools/iris)
+    * [cartopy](https://github.com/SciTools/cartopy) : 轻量级的气象绘图工具
+  * _Radar Meteorology_
+    * [Pyart](https://github.com/ARM-DOE/pyart)
+    * [Wradlib](https://github.com/wradlib/wradlib)
+    * [CSU_RadarTools](https://github.com/CSU-Radarmet/CSU_RadarTools)
+  * _NWP Post processing_
+    * [wrf-python](https://github.com/NCAR/wrf-python)
+    * [CESM_postprocessing](https://github.com/NCAR/CESM_postprocessing)
+    * [climlab](https://github.com/brian-rose/climlab) : climlab is a flexible engine for process-oriented climate modeling.
+  * _Satellite Meteorology_
+    * [satpy](https://github.com/pytroll/satpy)
+    * [pyModis](https://github.com/lucadelu/pyModis)
+  * _Others_
+    * [PyTables](https://github.com/PyTables/PyTables)
+    * [salem](https://github.com/fmaussion/salem)
+    * [geopandas](https://github.com/geopandas/geopandas)
+    * [geoplot](https://github.com/ResidentMario/geoplot)
+    * [geopy](https://github.com/geopy/geopy)
+    * [pyresample](https://github.com/pytroll/pyresample)
+    * [pyecharts](https://github.com/pyecharts/pyecharts)
+    * [Plotly](https://github.com/plotly)
+    * [geoviews](https://github.com/pyviz/geoviews)
+    * [pysheds](https://github.com/mdbartos/pysheds)
+    * [ccplot](https://github.com/peterkuma/ccplot)   
+    * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
 
 * __Fortran__
 
@@ -113,7 +130,6 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [studyGroup](https://github.com/UofTCoders/studyGroup)
   * [Coding Club](https://github.com/ourcodingclub/ourcodingclub.github.io)
   * [datacarpentry](https://datacarpentry.org/lessons/)
-
 
 * __LaTeX__
 
