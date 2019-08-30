@@ -15,13 +15,20 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Python for scientists](https://github.com/theJollySin/python_for_scientists)
   * [Python courses for the scientific researcher](https://github.com/SciTools/courses)
 
-* __Python (Advanced)__
-
+* __Python Scientific Computing__
+  
+  * [JupyterLab-Docs (highly recommended!)](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html)
   * [dask-tutorial](https://github.com/dask/dask-tutorial)
-  * [ams-ml-python-course](https://github.com/djgagne/ams-ml-python-course)
-  * [fastai](https://github.com/fastai/fastai)
-  * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
-  * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
+  * [numpy-Docs](https://numpy.org/devdocs/user/quickstart.html)
+  * [pandas-Docs](https://pandas.pydata.org/pandas-docs/stable/)
+  * [xarray-Docs (highly recommended!)](https://www.youtube.com/watch?v=X0pAhJgySxk)
+  * [matplotlib-Docs](https://matplotlib.org/tutorials/index.html)
+  * [scipy-Docs](https://docs.scipy.org/doc/scipy/reference/)
+  
+* __Python Machine Learning & Deep Learning__
+
+  * [pytorch (highly recommended!)](https://github.com/yunjey/pytorch-tutorial)
+  * [tensorflow](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Practical Deep Learning For Coders](https://course.fast.ai/)
@@ -33,10 +40,15 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   * [practicalAI](https://github.com/GokuMohandas/practicalAI)
   * [fast.ai course v3](https://github.com/hiromis/notes)
+  * [ams-ml-python-course](https://github.com/djgagne/ams-ml-python-course)
+  * [fastai](https://github.com/fastai/fastai)
+  * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
+  * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
 
 * __Useful Python library__
-
-  * [xarray](https://github.com/pydata/xarray)
+  * __Meteorological data IO__
+    * [xarray](https://github.com/pydata/xarray)
+  * [metpy](https://github.com/Unidata/MetPy)
   * [PyTables](https://github.com/PyTables/PyTables)
   * [xESMF](https://github.com/JiaweiZhuang/xESMF)
   * [cmaps](https://github.com/hhuangwx/cmaps)
@@ -133,11 +145,13 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Atmospheric Model__
 
   * [Numerical Weather and Climate Prediction](https://doi.org/10.1017/CBO9780511763243)
+  * [Atlas](https://github.com/ecmwf/atlas)
   * [GEOSChem-python-tutorial](https://github.com/geoschem/GEOSChem-python-tutorial)
   * [PyGEOMET](https://github.com/pygeomet/PyGEOMET)
   * [PyBox](https://github.com/loftytopping/PyBox)
   * [Parcel Trajectories for CM1 and WRF output](https://github.com/tomgowan/trajectories)
   * [InMAP](https://github.com/spatialmodel/inmap)
+  * [NWP Training Material 2016](https://confluence.ecmwf.int/display/OPTR/NWP+Training+Material+2016)
 
 * __Satellite__
 
@@ -157,6 +171,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Radar__
   * [Radar Meteorology: A First Course](https://doi.org/10.1002/9781118432662)
+  * [Weather Radar Polarimetry](https://doi.org/10.1201/9781315374666)
 
 * __Website__
 
