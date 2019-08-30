@@ -46,8 +46,9 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
 
 * __Useful Python library__
-  * __Meteorological data IO__
+  * _Meteorological data IO_
     * [xarray](https://github.com/pydata/xarray)
+    * [netcdf4](https://github.com/Unidata/netcdf4-python)
   * [metpy](https://github.com/Unidata/MetPy)
   * [PyTables](https://github.com/PyTables/PyTables)
   * [xESMF](https://github.com/JiaweiZhuang/xESMF)
