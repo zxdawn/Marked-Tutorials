@@ -94,6 +94,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Introduction to Modern Fortran for the Earth System Sciences](https://www.springer.com/la/book/9783642370083)
   * [Fortran for Scientists & Engineers](https://www.goodreads.com/book/show/36319697-fortran-for-scientists-engineers?ac=1&from_search=true)
   * [Fortran90 documentation](https://www.fortran90.org/)
+  * [Fortran Programming video tutorials](https://www.youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8)
 
 * __Julia__
 
@@ -198,6 +199,12 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
   * [Hugo - Static Site Generator | Tutorial](https://youtu.be/qtIqKaDlqXo)
   * [Hexo - Static Site Generator | Tutorial](https://youtu.be/Kt7u5kr_P5o)
+  
+* __Research__
+  [Sci-Hub](http://sci-hub.tw/) : 英文论文下载神器
+  [libgen](https://libgen.is/) : 外文书籍下载神器
+  [通天塔](http://tongtianta.site/) : 论文翻译神器
+  [双系统安装](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/): ubuntu和win10双系统安装
 
 * __Guitar__
 
@@ -211,4 +218,5 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Lychee](https://github.com/LycheeOrg/Lychee)
   * Photoshop One-on-one
   * Illustrator One-on-one
+
 
