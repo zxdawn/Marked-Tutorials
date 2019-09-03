@@ -117,6 +117,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Atmosphere__
 
   * [Sever Weather](http://learnweather.com/)
+  * [Earth and Environmental Data Science](https://earth-env-data-science.github.io/)
   * [AMS_2019 (recorded)](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/ModuleProgramBook/0)
   * [Atmospheric Science (2nd Edition)](https://www.elsevier.com/books/atmospheric-science/wallace/978-0-12-732951-2)
   * [An Introduction to Dynamic Meteorology (5th Edition)](https://www.elsevier.com/books/an-introduction-to-dynamic-meteorology/holton/978-0-12-384866-6)
