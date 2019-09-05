@@ -17,7 +17,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Python Scientific Computing__
   
-  * [JupyterLab-Docs (highly recommended!)](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html) : 科学计算必备
+  * [JupyterLab-Docs (highly recommended!)](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html)
   * [dask-tutorial](https://github.com/dask/dask-tutorial)
   * [numpy-Docs](https://numpy.org/devdocs/user/quickstart.html) 
   * [pandas-Docs](https://pandas.pydata.org/pandas-docs/stable/)
@@ -27,7 +27,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   
 * __Python Machine Learning & Deep Learning__
 
-  * [pytorch (highly recommended!)](https://github.com/yunjey/pytorch-tutorial) : facebook开源的动态深度学习框架，易用性优于tensorflow
+  * [pytorch (highly recommended!)](https://github.com/yunjey/pytorch-tutorial) : simpler and faster than tensorflow
   * [tensorflow](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -47,23 +47,23 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Useful Python library__
   * _Meteorological data IO_
-    * [xarray](https://github.com/pydata/xarray) : 功能强大的多维气象数据处理库
-    * [cfgrib](https://github.com/ecmwf/cfgrib) : ECMWF开发的grib数据处理工具，可作为xarry底层库
+    * [xarray](https://github.com/pydata/xarray) 
+    * [cfgrib](https://github.com/ecmwf/cfgrib)
     * [netcdf4](https://github.com/Unidata/netcdf4-python) 
-    * [pynio](https://github.com/NCAR/pynio) : NCL为底层的数据读取Python接口
+    * [pynio](https://github.com/NCAR/pynio) : NCL's API for Python
     * [xESMF](https://github.com/JiaweiZhuang/xESMF)
   * _Atomspheric Physics_
-    * [metpy](https://github.com/Unidata/MetPy) ：常见的大气物理过程函数库
-    * [PyDSD](https://github.com/josephhardinee/PyDSD) : 雨滴谱数据处理库
+    * [metpy](https://github.com/Unidata/MetPy) ：atmospheric physics function
+    * [PyDSD](https://github.com/josephhardinee/PyDSD) : DSD processing tool
     * [pyrcel](https://github.com/darothen/pyrcel) : cloud parcel model
     * [libcloudphysics++](https://github.com/igfuw/libcloudphxx) : a library of algorithms for representing cloud microphysics in numerical models
   * _Meteorological data visualization_
-    * [PyNGL](https://github.com/NCAR/pyngl) : NCL的Python绘图接口
-    * [CDAT](https://github.com/CDAT/cdat) : 气象数据分析与绘图，并支持3D绘图
-    * [cmocean](https://github.com/matplotlib/cmocean) : 通用的海洋色彩图设置
-    * [cmaps](https://github.com/hhuangwx/cmaps) : 移植NCL的cmaps用于Python
+    * [PyNGL](https://github.com/NCAR/pyngl) : NCL's API for Python
+    * [CDAT](https://github.com/CDAT/cdat) : Meteorology analysis and mapping tool
+    * [cmocean](https://github.com/matplotlib/cmocean) : ocean cmaps for matplotlib
+    * [cmaps](https://github.com/hhuangwx/cmaps) : NCL's cmaps for matplotlib
     * [iris](https://github.com/SciTools/iris)
-    * [cartopy](https://github.com/SciTools/cartopy) : 轻量级的气象绘图工具
+    * [cartopy](https://github.com/SciTools/cartopy) : light mapping tool 
   * _Radar Meteorology_
     * [Pyart](https://github.com/ARM-DOE/pyart)
     * [Wradlib](https://github.com/wradlib/wradlib)
@@ -145,10 +145,10 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
   
 * __Research__
-  * [Sci-Hub](http://sci-hub.tw/) : 英文论文下载神器
-  * [libgen](https://libgen.is/) : 外文书籍下载神器
-  * [通天塔](http://tongtianta.site/) : 论文翻译神器
-  * [双系统安装](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/): ubuntu和win10双系统安装
+  * [Sci-Hub](http://sci-hub.tw/) : Paper download
+  * [libgen](https://libgen.is/) : Book download
+  * [tongtianta](http://tongtianta.site/) : paper translation
+  * [dual-boot-system-install](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/): dual boot with ubuntu and win10
 
 * __Weather__
 
