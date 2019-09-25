@@ -15,13 +15,20 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Python for scientists](https://github.com/theJollySin/python_for_scientists)
   * [Python courses for the scientific researcher](https://github.com/SciTools/courses)
 
-* __Python (Advanced)__
-
+* __Python Scientific Computing__
+  
+  * [JupyterLab-Docs (highly recommended!)](https://jupyterlab.readthedocs.io/en/latest/getting_started/starting.html)
   * [dask-tutorial](https://github.com/dask/dask-tutorial)
-  * [ams-ml-python-course](https://github.com/djgagne/ams-ml-python-course)
-  * [fastai](https://github.com/fastai/fastai)
-  * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
-  * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
+  * [numpy-Docs](https://numpy.org/devdocs/user/quickstart.html) 
+  * [pandas-Docs](https://pandas.pydata.org/pandas-docs/stable/)
+  * [xarray-Docs (highly recommended!)](https://www.youtube.com/watch?v=X0pAhJgySxk)
+  * [matplotlib-Docs](https://matplotlib.org/tutorials/index.html)
+  * [scipy-Docs](https://docs.scipy.org/doc/scipy/reference/)
+  
+* __Python Machine Learning & Deep Learning__
+
+  * [pytorch (highly recommended!)](https://github.com/yunjey/pytorch-tutorial) : simpler and faster than tensorflow
+  * [tensorflow](https://github.com/czy36mengfei/tensorflow2_tutorials_chinese)
   * [Introduction to Machine Learning for Coders](https://course.fast.ai/ml)
   * [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
   * [Practical Deep Learning For Coders](https://course.fast.ai/)
@@ -33,33 +40,61 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [100 Days of ML Coding](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
   * [practicalAI](https://github.com/GokuMohandas/practicalAI)
   * [fast.ai course v3](https://github.com/hiromis/notes)
+  * [ams-ml-python-course](https://github.com/djgagne/ams-ml-python-course)
+  * [fastai](https://github.com/fastai/fastai)
+  * [Dive into Deep Learning](https://github.com/d2l-ai/d2l-en)
+  * [Scipy 2018 scikit-learn tutorial](https://github.com/amueller/scipy-2018-sklearn)
 
 * __Useful Python library__
-
-  * [xarray](https://github.com/pydata/xarray)
-  * [PyTables](https://github.com/PyTables/PyTables)
-  * [xESMF](https://github.com/JiaweiZhuang/xESMF)
-  * [cmaps](https://github.com/hhuangwx/cmaps)
-  * [salem](https://github.com/fmaussion/salem)
-  * [iris](https://github.com/SciTools/iris)
-  * [geopandas](https://github.com/geopandas/geopandas)
-  * [geoplot](https://github.com/ResidentMario/geoplot)
-  * [geopy](https://github.com/geopy/geopy)
-  * [pyresample](https://github.com/pytroll/pyresample)
-  * [pyecharts](https://github.com/pyecharts/pyecharts)
-  * [Plotly](https://github.com/plotly)
-  * [geoviews](https://github.com/pyviz/geoviews)
-  * [pysheds](https://github.com/mdbartos/pysheds)
-  * [satpy](https://github.com/pytroll/satpy)
-  * [ccplot](https://github.com/peterkuma/ccplot)
-  * [pyModis](https://github.com/lucadelu/pyModis)
-  * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
+  * _Meteorological data IO_
+    * [xarray](https://github.com/pydata/xarray) 
+    * [cfgrib](https://github.com/ecmwf/cfgrib)
+    * [netcdf4](https://github.com/Unidata/netcdf4-python) 
+    * [pynio](https://github.com/NCAR/pynio) : NCL's API for Python
+    * [xESMF](https://github.com/JiaweiZhuang/xESMF)
+  * _Atomspheric Physics_
+    * [metpy](https://github.com/Unidata/MetPy) ：atmospheric physics function
+    * [PyDSD](https://github.com/josephhardinee/PyDSD) : DSD processing tool
+    * [pyrcel](https://github.com/darothen/pyrcel) : cloud parcel model
+    * [libcloudphysics++](https://github.com/igfuw/libcloudphxx) : a library of algorithms for representing cloud microphysics in numerical models
+  * _Meteorological data visualization_
+    * [PyNGL](https://github.com/NCAR/pyngl) : NCL's API for Python
+    * [CDAT](https://github.com/CDAT/cdat) : Meteorology analysis and mapping tool
+    * [cmocean](https://github.com/matplotlib/cmocean) : ocean cmaps for matplotlib
+    * [cmaps](https://github.com/hhuangwx/cmaps) : NCL's cmaps for matplotlib
+    * [iris](https://github.com/SciTools/iris)
+    * [cartopy](https://github.com/SciTools/cartopy) : light mapping tool 
+  * _Radar Meteorology_
+    * [Pyart](https://github.com/ARM-DOE/pyart)
+    * [Wradlib](https://github.com/wradlib/wradlib)
+    * [CSU_RadarTools](https://github.com/CSU-Radarmet/CSU_RadarTools)
+  * _NWP Post processing_
+    * [wrf-python](https://github.com/NCAR/wrf-python)
+    * [CESM_postprocessing](https://github.com/NCAR/CESM_postprocessing)
+    * [climlab](https://github.com/brian-rose/climlab) : climlab is a flexible engine for process-oriented climate modeling.
+  * _Satellite Meteorology_
+    * [satpy](https://github.com/pytroll/satpy)
+    * [pyModis](https://github.com/lucadelu/pyModis)
+  * _Others_
+    * [PyTables](https://github.com/PyTables/PyTables)
+    * [salem](https://github.com/fmaussion/salem)
+    * [geopandas](https://github.com/geopandas/geopandas)
+    * [geoplot](https://github.com/ResidentMario/geoplot)
+    * [geopy](https://github.com/geopy/geopy)
+    * [pyresample](https://github.com/pytroll/pyresample)
+    * [pyecharts](https://github.com/pyecharts/pyecharts)
+    * [Plotly](https://github.com/plotly)
+    * [geoviews](https://github.com/pyviz/geoviews)
+    * [pysheds](https://github.com/mdbartos/pysheds)
+    * [ccplot](https://github.com/peterkuma/ccplot)   
+    * [python-matlab-bridge](https://github.com/arokem/python-matlab-bridge)
 
 * __Fortran__
 
   * [Introduction to Modern Fortran for the Earth System Sciences](https://www.springer.com/la/book/9783642370083)
   * [Fortran for Scientists & Engineers](https://www.goodreads.com/book/show/36319697-fortran-for-scientists-engineers?ac=1&from_search=true)
   * [Fortran90 documentation](https://www.fortran90.org/)
+  * [Fortran Programming video tutorials](https://www.youtube.com/playlist?list=PLNmACol6lYY5_S8I4K29V2oI95nOCzQU8)
 
 * __Julia__
 
@@ -97,7 +132,6 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Coding Club](https://github.com/ourcodingclub/ourcodingclub.github.io)
   * [datacarpentry](https://datacarpentry.org/lessons/)
 
-
 * __LaTeX__
 
   * [Beginner's Tutorial](https://www.sharelatex.com/blog/latex-guides/beginners-tutorial.html)
@@ -109,6 +143,12 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Stat Terk](https://stattrek.com/)
   * [STAT 501](https://newonlinecourses.science.psu.edu/stat501/)
   * [Applied Numerical Computing](http://www.seas.ucla.edu/~vandenbe/ee133a.html)
+  
+* __Research__
+  * [Sci-Hub](http://sci-hub.tw/) : Paper download
+  * [libgen](https://libgen.is/) : Book download
+  * [tongtianta](http://tongtianta.site/) : paper translation
+  * [dual-boot-system-install](https://itsfoss.com/install-ubuntu-1404-dual-boot-mode-windows-8-81-uefi/): dual boot with ubuntu and win10
 
 * __Weather__
 
@@ -134,11 +174,13 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 * __Atmospheric Model__
 
   * [Numerical Weather and Climate Prediction](https://doi.org/10.1017/CBO9780511763243)
+  * [Atlas](https://github.com/ecmwf/atlas)
   * [GEOSChem-python-tutorial](https://github.com/geoschem/GEOSChem-python-tutorial)
   * [PyGEOMET](https://github.com/pygeomet/PyGEOMET)
   * [PyBox](https://github.com/loftytopping/PyBox)
   * [Parcel Trajectories for CM1 and WRF output](https://github.com/tomgowan/trajectories)
   * [InMAP](https://github.com/spatialmodel/inmap)
+  * [NWP Training Material 2016](https://confluence.ecmwf.int/display/OPTR/NWP+Training+Material+2016)
 
 * __Satellite__
 
@@ -158,6 +200,7 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
 
 * __Radar__
   * [Radar Meteorology: A First Course](https://doi.org/10.1002/9781118432662)
+  * [Weather Radar Polarimetry](https://doi.org/10.1201/9781315374666)
 
 * __Website__
 
@@ -176,4 +219,3 @@ If you meet/have some excellent tutorials related to topics below, PRs welcome!
   * [Lychee](https://github.com/LycheeOrg/Lychee)
   * Photoshop One-on-one
   * Illustrator One-on-one
-
